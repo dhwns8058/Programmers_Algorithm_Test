@@ -54,3 +54,6 @@ https://velog.io/@ohjoon/Level-1-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%E
 
 ### Level 1 [자바스크립트] 약수의 합
 https://velog.io/@ohjoon/Level-1-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%95%BD%EC%88%98%EC%9D%98-%ED%95%A9
+
+### Level 1 [자바스크립트] 직사각형 별찍기
+https://velog.io/@ohjoon/Level-1-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-%EB%B3%84%EC%B0%8D%EA%B8%B0
