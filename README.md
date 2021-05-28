@@ -57,3 +57,6 @@ https://velog.io/@ohjoon/Level-1-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%E
 
 ### Level 1 [자바스크립트] 직사각형 별찍기
 https://velog.io/@ohjoon/Level-1-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-%EB%B3%84%EC%B0%8D%EA%B8%B0
+
+### Level 1 [자바스크립트] x만큼 간격이 있는 n개의 숫자
+https://velog.io/@ohjoon/Level-1-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-x%EB%A7%8C%ED%81%BC-%EA%B0%84%EA%B2%A9%EC%9D%B4-%EC%9E%88%EB%8A%94-n%EA%B0%9C%EC%9D%98-%EC%88%AB%EC%9E%90
