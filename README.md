@@ -69,3 +69,6 @@ https://velog.io/@ohjoon/Level-1-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%E
 
 ### Level 1 [자바스크립트] K번째수
 https://velog.io/@ohjoon/Level-1-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-K%EB%B2%88%EC%A7%B8%EC%88%98
+
+### Level 1 [자바스크립트] 문자열 내 마음대로 정렬하기
+https://velog.io/@ohjoon/Level-1-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0
